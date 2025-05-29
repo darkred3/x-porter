@@ -5,9 +5,7 @@ X-Port exports your favorites on e-hentai.org and exhentai.org.
 
 ## Installing
 
-#### For full instructions and information, go to the [proper homepage](https://dnsev-h.github.io/x-port/).
-
-To install, first get a supported userscript manager. Then, install [x-port.user.js](https://raw.githubusercontent.com/dnsev-h/x-port/stable/builds/x-port.user.js).
+To install, first get a supported userscript manager. Then, install ([x-port.user.js](https://raw.githubusercontent.com/darkred3/x-porter/refs/heads/master/builds/x-port.user.js)).
 
 
 ## Developing
