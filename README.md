@@ -5,7 +5,7 @@ X-Port exports your favorites on e-hentai.org and exhentai.org.
 
 ## Installing
 
-To install, first get a supported userscript manager. Then, install ([x-port.user.js](https://raw.githubusercontent.com/darkred3/x-porter/refs/heads/master/builds/x-port.user.js)).
+To install, first get a supported userscript manager. Then, install [x-port.user.js](https://raw.githubusercontent.com/darkred3/x-porter/refs/heads/master/builds/x-port.user.js).
 
 
 ## Developing
